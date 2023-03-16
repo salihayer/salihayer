@@ -41,22 +41,22 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>DYMENSION</strong></span><br><br />
             <a href="https://dymension.explorers.guru/validator/dymvaloper1lgt9pf5qs332q95r3gl323myk8a096nm09c4sw" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
+            <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper1ljg6ed0pzc3xpqtareyfp6h4fpngs7nwqryqup">
-            <img height="40px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
+            <img height="60px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>GITOPIA</strong></span><br><br />
             <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1tx9u8wp4yphtdms68uxuxy8q0amg7s3k0lkq8m" rel="noopener noreferrer">
-            <img height="40px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
+            <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
             </td>
           </tr>
     </tbody>
