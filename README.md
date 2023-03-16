@@ -26,7 +26,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://paloma.explorers.guru/validator/palomavaloper1ljg6ed0pzc3xpqtareyfp6h4fpngs7nwqryqup" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://ibb.co/ftpHmfz"> </a>
+            <img height="40px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
             </td>
         </tr>
     </tbody>
