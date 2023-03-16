@@ -8,8 +8,7 @@
 </div>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <br />
-<h1>SALOMONVAL</h1>
+ <h1>SALOMONVAL</h1>
 <br />
 Node installation services
   </div>
