@@ -92,7 +92,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>WORMHOLES</strong></span><br><br />
             <a href="https://www.wormholesscan.com/#/AccountDetail/0xC462E3f53a6649B8E28FaDc4265A2483dc083839" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
+            <img height="80px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>Q BLOCKCHAIN</strong></span><br><br />
