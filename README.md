@@ -66,7 +66,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>MINIMA</strong></span><br><br />
             <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>QUASAR</strong></span><br><br />
@@ -99,4 +99,22 @@ Node installation services
             <a href="https://itn.qdev.li/statistics?validator_address=0x73fcC086F96a3D6ca2646e09A5D64400050962d7" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
             </td>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+ <div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
+  </div>
+</div>
             
