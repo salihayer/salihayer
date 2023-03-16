@@ -108,4 +108,29 @@ Node installation services
   <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
   </div>
 </div>
-            
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>STRIDE</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1mu69flp9hmp0y8qj2y2lj3k09pgkfhp2l6qa2p" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/TmZBHf2/stride.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>QUICKSILVER</strong></span><br><br />
+            <a href="https://quicksilver.explorers.guru/validator/quickvaloper1cycjz7xqphyee8vu95cc8xksuqsm09jskek40c" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>TERITORI</strong></span><br><br />
+            <a href="https://teritori.explorers.guru/validator/torivaloper18kk3gzx0a8edmqt2eyt069wptr6pwqjgt5czs3" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/z5nyhjk/teritori.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>REBUS</strong></span><br><br />
+            <a href="https://rebus.explorers.guru/validator/rebusvaloper1gnl5uaa6pwn7hk5slcxg4nhxspp8vv9mgy0j8f" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/tMsW6JW/rebus.png"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>         
