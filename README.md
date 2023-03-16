@@ -11,7 +11,6 @@
   <br />
 <h1>SALOMONVAL</h1>
 <br />
-<br />
 Node installation services
   </div>
 </div>
@@ -20,7 +19,7 @@ Node installation services
   <h2><i>M A I N N E T S</i></h2>
   </div>
 </div>
-<table width="350px" align="center">
+<table width="300px" align="center">
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
