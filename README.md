@@ -99,18 +99,9 @@ Node installation services
             <a href="https://itn.qdev.li/statistics?validator_address=0x73fcC086F96a3D6ca2646e09A5D64400050962d7" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
             </td>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+        </tr>
+    </tbody>
+</table>       
           
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
