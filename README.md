@@ -131,6 +131,12 @@ Node installation services
             <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1tx9u8wp4yphtdms68uxuxy8q0amg7s3k0lkq8m" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
             </td>
+           </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>REBUS</strong></span><br><br />
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1gnl5uaa6pwn7hk5slcxg4nhxspp8vv9mgy0j8f" target="_blank" rel="noopener noreferrer">
