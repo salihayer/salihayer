@@ -125,6 +125,11 @@ Node installation services
             <span><strong>TERITORI</strong></span><br><br />
             <a href="https://teritori.explorers.guru/validator/torivaloper18kk3gzx0a8edmqt2eyt069wptr6pwqjgt5czs3" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/z5nyhjk/teritori.png"> </a>
+           </td>
+            <td width="130px" align="center">
+            <span><strong>GITOPIA</strong></span><br><br />
+            <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1tx9u8wp4yphtdms68uxuxy8q0amg7s3k0lkq8m" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>REBUS</strong></span><br><br />
