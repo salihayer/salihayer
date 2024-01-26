@@ -119,7 +119,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>QUICKSILVER</strong></span><br><br />
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper1cycjz7xqphyee8vu95cc8xksuqsm09jskek40c" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
+            <img height="60px" src="https://hizliresim.com/11ekg89"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>TERITORI</strong></span><br><br />
