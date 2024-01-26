@@ -38,8 +38,8 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://dymension.explorers.guru/validator/dymvaloper1lgt9pf5qs332q95r3gl323myk8a096nm09c4sw" target="_blank" rel="noopener noreferrer">
+            <span><strong>DYMENSION ROLLAPP</strong></span><br><br />
+            <a href="https://portal.dymension.xyz/rollapp/salomonrollapp_3213-1/metrics" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
             </td>
             <td width="130px" align="center">
