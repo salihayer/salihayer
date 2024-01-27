@@ -68,40 +68,13 @@ Node installation services
             <a href="https://explorer.devnet.redbelly.network/address/0x7Bf1Ba7355aAFDA059CE537A63693a3B310d5C49?tab=transactions">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
             </td>
-            <td width="130px" align="center">
-            <span><strong>QUASAR</strong></span><br><br />
-            <a href="https://quasar.explorers.guru/validator/quasarvaloper158y352qjr4tfc6aqwnhwf26q4gtvrgvppnm3un" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/W5g5nJ8/quasar.png"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>MARS</strong></span><br><br />
-            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1ret0ezu3e5cmgv3a84aq7s7fcxlspsg7l7tx5u" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/KGkpMkZ/mars.png"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>NIBIRU</strong></span><br><br />
-            <a href="https://explorers.acloud.pp.ua/nibiru-testnet/staking/nibivaloper1a2kwlp3k4xy88qklqhxnpt9tjyrkzqwp5s9z3f" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/55X0khT/nibiru.png"> </a>
-            </td>
         </tr>
     </tbody>
 </table>
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>WORMHOLES</strong></span><br><br />
-            <a href="https://www.wormholesscan.com/#/AccountDetail/0xC462E3f53a6649B8E28FaDc4265A2483dc083839" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Q BLOCKCHAIN</strong></span><br><br />
-            <a href="https://itn.qdev.li/statistics?validator_address=0x73fcC086F96a3D6ca2646e09A5D64400050962d7" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
-            </td>
-        </tr>
-    </tbody>
-</table>       
+           
           
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
