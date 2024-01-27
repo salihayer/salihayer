@@ -40,12 +40,12 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>DYMENSION ROLLAPP</strong></span><br><br />
             <a href="https://portal.dymension.xyz/rollapp/salomonrollapp_3213-1/metrics" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
+            <img height="80px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper1ljg6ed0pzc3xpqtareyfp6h4fpngs7nwqryqup">
-            <img height="60px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
+            <img height="80px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>AVAIL</strong></span><br><br />
@@ -55,7 +55,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://pbs.twimg.com/profile_images/1660782439340576768/9rIZjmMt_400x400.jpg"> </a>
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1660782439340576768/9rIZjmMt_400x400.jpg"> </a>
             </td>
           </tr>
     </tbody>
@@ -66,7 +66,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>Redbelly Network </strong></span><br><br />
             <a href="https://explorer.devnet.redbelly.network/address/0x7Bf1Ba7355aAFDA059CE537A63693a3B310d5C49?tab=transactions">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
             </td>
         </tr>
     </tbody>
