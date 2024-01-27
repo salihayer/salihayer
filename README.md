@@ -55,7 +55,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1660782439340576768/9rIZjmMt_400x400.jpg"> </a>
             </td>
           </tr>
     </tbody>
