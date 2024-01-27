@@ -157,6 +157,22 @@ Node installation services
             <a href="https://explorers.acloud.pp.ua/nibiru-testnet/staking/nibivaloper1a2kwlp3k4xy88qklqhxnpt9tjyrkzqwp5s9z3f" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/55X0khT/nibiru.png"> </a>
             </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>MINIMA</strong></span><br><br />
+            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>QUASAR</strong></span><br><br />
+            <a href="https://quasar.explorers.guru/validator/quasarvaloper158y352qjr4tfc6aqwnhwf26q4gtvrgvppnm3un" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/W5g5nJ8/quasar.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
