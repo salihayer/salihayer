@@ -48,9 +48,9 @@ Node installation services
             <img height="60px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>GITOPIA</strong></span><br><br />
-            <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1tx9u8wp4yphtdms68uxuxy8q0amg7s3k0lkq8m" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
+            <span><strong>AVAIL</strong></span><br><br />
+            <a href="https://telemetry.avail.tools/#/0xd12003ac837853b062aaccca5ce87ac4838c48447e41db4a3dcfb5bf312350c6" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://www.availproject.org/_next/static/media/grow.1113097f.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
@@ -64,9 +64,9 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>MINIMA</strong></span><br><br />
-            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
+            <span><strong>Redbelly Network </strong></span><br><br />
+            <a href="https://explorer.devnet.redbelly.network/address/0x7Bf1Ba7355aAFDA059CE537A63693a3B310d5C49?tab=transactions">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>QUASAR</strong></span><br><br />
