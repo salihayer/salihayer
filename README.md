@@ -173,6 +173,15 @@ Node installation services
             <a href="https://quasar.explorers.guru/validator/quasarvaloper158y352qjr4tfc6aqwnhwf26q4gtvrgvppnm3un" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/W5g5nJ8/quasar.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>WORMHOLES</strong></span><br><br />
+            <a href="https://www.wormholesscan.com/#/AccountDetail/0xC462E3f53a6649B8E28FaDc4265A2483dc083839" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Q BLOCKCHAIN</strong></span><br><br />
+            <a href="https://itn.qdev.li/statistics?validator_address=0x73fcC086F96a3D6ca2646e09A5D64400050962d7" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
         </tr>
     </tbody>
 </table>
