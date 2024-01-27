@@ -50,7 +50,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>AVAIL</strong></span><br><br />
             <a href="https://telemetry.avail.tools/#/0xd12003ac837853b062aaccca5ce87ac4838c48447e41db4a3dcfb5bf312350c6" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://www.availproject.org/_next/static/media/grow.1113097f.png"> </a>
+            <img height="80px" src="https://www.availproject.org/_next/static/media/grow.1113097f.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
