@@ -143,8 +143,8 @@ Node installation services
             <img height="60px" src="https://i.ibb.co/tMsW6JW/rebus.png"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>DYMENSION ROLLAPP</strong></span><br><br />
-            <a href="https://dymension.explorers.guru/validator/dymvaloper1lgt9pf5qs332q95r3gl323myk8a096nm09c4sw" target="_blank" rel="noopener noreferrer">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://dymension.explorers.guru/validator/dymvaloper15jqn0eehe3dmyln4q4zcsk298zuzxdpe9dw8wd" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
             </td>
             <td width="130px" align="center">
