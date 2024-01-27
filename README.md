@@ -142,6 +142,27 @@ Node installation services
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1gnl5uaa6pwn7hk5slcxg4nhxspp8vv9mgy0j8f" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/tMsW6JW/rebus.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>DYMENSION ROLLAPP</strong></span><br><br />
+            <a href="https://dymension.explorers.guru/validator/dymvaloper1lgt9pf5qs332q95r3gl323myk8a096nm09c4sw" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>MARS</strong></span><br><br />
+            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1ret0ezu3e5cmgv3a84aq7s7fcxlspsg7l7tx5u" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/KGkpMkZ/mars.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>NIBIRU</strong></span><br><br />
+            <a href="https://explorers.acloud.pp.ua/nibiru-testnet/staking/nibivaloper1a2kwlp3k4xy88qklqhxnpt9tjyrkzqwp5s9z3f" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/55X0khT/nibiru.png"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
           </tr>
     </tbody>
 </table>         
